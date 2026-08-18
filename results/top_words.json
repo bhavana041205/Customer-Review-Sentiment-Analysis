@@ -1,0 +1,53 @@
+{
+  "negative": [
+    "worth",
+    "disappoint",
+    "flimsi",
+    "aw",
+    "clunki",
+    "faulti",
+    "shoddi",
+    "terribl",
+    "frustrat",
+    "uncomfort",
+    "defect",
+    "slow",
+    "subpar",
+    "unreli",
+    "useless"
+  ],
+  "neutral": [
+    "okay",
+    "fine",
+    "accept",
+    "decent",
+    "reason",
+    "ago deliveri",
+    "averag",
+    "ago fine",
+    "ago packag",
+    "ago doe",
+    "standard",
+    "ago featur",
+    "howev ship",
+    "blender",
+    "smartwatch"
+  ],
+  "positive": [
+    "impress",
+    "afford",
+    "comfort",
+    "superb",
+    "great",
+    "respons",
+    "smooth",
+    "fast",
+    "wonder",
+    "reliabl",
+    "solid",
+    "outstand",
+    "sturdi",
+    "fantast",
+    "excel"
+  ]
+}
